@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+pandastable
+tkinter
+ttk
+filedialog
+asksaveasfilename
