@@ -1,5 +1,3 @@
 Flask
 pandas
 numpy
-filedialog
-asksaveasfilename
