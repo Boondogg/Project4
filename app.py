@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from pandastable import Table
 import tkinter as tk
 from tkinter import ttk
 from tkinter import filedialog as fd
